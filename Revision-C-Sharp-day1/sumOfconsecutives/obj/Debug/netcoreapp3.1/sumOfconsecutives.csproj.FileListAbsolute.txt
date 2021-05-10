@@ -1,0 +1,13 @@
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\bin\Debug\netcoreapp3.1\sumOfconsecutives.exe
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\bin\Debug\netcoreapp3.1\sumOfconsecutives.deps.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\bin\Debug\netcoreapp3.1\sumOfconsecutives.runtimeconfig.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\bin\Debug\netcoreapp3.1\sumOfconsecutives.runtimeconfig.dev.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\bin\Debug\netcoreapp3.1\sumOfconsecutives.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\bin\Debug\netcoreapp3.1\sumOfconsecutives.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.csprojAssemblyReference.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.AssemblyInfoInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.AssemblyInfo.cs
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.csproj.CoreCompileInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfconsecutives\obj\Debug\netcoreapp3.1\sumOfconsecutives.genruntimeconfig.cache

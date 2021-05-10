@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deleteOccurencesOfelement", "deleteOccurencesOfelement.csproj", "{32523F45-07B6-45BB-B703-252D3BF5E07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32523F45-07B6-45BB-B703-252D3BF5E07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32523F45-07B6-45BB-B703-252D3BF5E07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32523F45-07B6-45BB-B703-252D3BF5E07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32523F45-07B6-45BB-B703-252D3BF5E07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E9F7E5-A9B3-4708-8111-2A732EE527A4}
+	EndGlobalSection
+EndGlobal

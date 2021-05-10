@@ -1,0 +1,12 @@
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\bin\Debug\netcoreapp3.1\deleteOccurencesOfelement.exe
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\bin\Debug\netcoreapp3.1\deleteOccurencesOfelement.deps.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\bin\Debug\netcoreapp3.1\deleteOccurencesOfelement.runtimeconfig.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\bin\Debug\netcoreapp3.1\deleteOccurencesOfelement.runtimeconfig.dev.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\bin\Debug\netcoreapp3.1\deleteOccurencesOfelement.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\bin\Debug\netcoreapp3.1\deleteOccurencesOfelement.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\obj\Debug\netcoreapp3.1\deleteOccurencesOfelement.AssemblyInfoInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\obj\Debug\netcoreapp3.1\deleteOccurencesOfelement.AssemblyInfo.cs
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\obj\Debug\netcoreapp3.1\deleteOccurencesOfelement.csproj.CoreCompileInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\obj\Debug\netcoreapp3.1\deleteOccurencesOfelement.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\obj\Debug\netcoreapp3.1\deleteOccurencesOfelement.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\deleteOccurencesOfelement\obj\Debug\netcoreapp3.1\deleteOccurencesOfelement.genruntimeconfig.cache

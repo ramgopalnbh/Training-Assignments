@@ -1,0 +1,12 @@
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\bin\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.exe
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\bin\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.deps.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\bin\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.runtimeconfig.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\bin\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.runtimeconfig.dev.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\bin\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\bin\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\obj\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.AssemblyInfoInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\obj\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.AssemblyInfo.cs
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\obj\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.csproj.CoreCompileInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\obj\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\obj\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\sumOfDiffBWProductLCM\obj\Debug\netcoreapp3.1\sumOfDiffBWProductLCM.genruntimeconfig.cache

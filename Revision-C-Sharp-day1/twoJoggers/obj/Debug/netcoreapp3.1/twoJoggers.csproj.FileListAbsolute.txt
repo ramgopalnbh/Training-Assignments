@@ -1,0 +1,13 @@
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\bin\Debug\netcoreapp3.1\twoJoggers.exe
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\bin\Debug\netcoreapp3.1\twoJoggers.deps.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\bin\Debug\netcoreapp3.1\twoJoggers.runtimeconfig.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\bin\Debug\netcoreapp3.1\twoJoggers.runtimeconfig.dev.json
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\bin\Debug\netcoreapp3.1\twoJoggers.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\bin\Debug\netcoreapp3.1\twoJoggers.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.csprojAssemblyReference.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.AssemblyInfoInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.AssemblyInfo.cs
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.csproj.CoreCompileInputs.cache
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.dll
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.pdb
+C:\Users\Ram Gopal\Desktop\Test\TrainingSessionAtTaazaa\WFH\C-Sharp-day-1\twoJoggers\obj\Debug\netcoreapp3.1\twoJoggers.genruntimeconfig.cache
