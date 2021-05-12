@@ -1,0 +1,13 @@
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\bin\Debug\netcoreapp3.1\filesdirectory.exe
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\bin\Debug\netcoreapp3.1\filesdirectory.deps.json
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\bin\Debug\netcoreapp3.1\filesdirectory.runtimeconfig.json
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\bin\Debug\netcoreapp3.1\filesdirectory.runtimeconfig.dev.json
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\bin\Debug\netcoreapp3.1\filesdirectory.dll
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\bin\Debug\netcoreapp3.1\filesdirectory.pdb
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.csprojAssemblyReference.cache
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.AssemblyInfoInputs.cache
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.AssemblyInfo.cs
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.csproj.CoreCompileInputs.cache
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.dll
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.pdb
+C:\Trainning\CSharpAssignments\filesdirectory\filesdirectory\obj\Debug\netcoreapp3.1\filesdirectory.genruntimeconfig.cache
