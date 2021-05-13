@@ -1,0 +1,18 @@
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\bin\Debug\netcoreapp3.1\ProductData.deps.json
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\bin\Debug\netcoreapp3.1\ProductData.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\bin\Debug\netcoreapp3.1\ProductData.pdb
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.csprojAssemblyReference.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.AssemblyInfoInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.AssemblyInfo.cs
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.dll
+C:\Users\s s infotech\Sandeep\Revision\Revision Day2\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.pdb
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.csprojAssemblyReference.cache
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.AssemblyInfoInputs.cache
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.AssemblyInfo.cs
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.csproj.CoreCompileInputs.cache
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.dll
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\obj\Debug\netcoreapp3.1\ProductData.pdb
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\bin\Debug\netcoreapp3.1\ProductData.deps.json
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\bin\Debug\netcoreapp3.1\ProductData.dll
+C:\Trainning\CSharpAssignments\ProductCatalogwithCSV\ProductCatalog\ProductData\bin\Debug\netcoreapp3.1\ProductData.pdb
